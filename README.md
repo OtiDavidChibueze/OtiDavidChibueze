@@ -1,4 +1,4 @@
-## Hello! I'm [David] 👋
+## Hello! I'm David 👋
 
 I'm a passionate backend developer with expertise in JavaScript, Node.js, Express, and MongoDB. I thrive on building robust and scalable web applications, focusing on server-side development. 
 
