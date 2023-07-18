@@ -17,4 +17,4 @@ Throughout my career, I have collaborated with cross-functional teams to deliver
 
 I'm always open to exciting opportunities and collaborations, so feel free to reach out to me!
 
-Connect with me on [Whatsapp](https://wa.me/+2348125131828), [linkedin](www.linkedin.com/in/oti-david-chibueze) or [instagram](https://instagram.com/backend.web.developer?igshid=ZDdkNTZiNTM=) Let's build amazing things together! ✨ .
+Connect with me on [Whatsapp](https://wa.me/+2348125131828) or [instagram](https://instagram.com/backend.web.developer?igshid=ZDdkNTZiNTM=) Let's build amazing things together! ✨ .
