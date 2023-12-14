@@ -10,7 +10,7 @@ With expertise in **React, HTML, CSS,** and **JavaScript**, I craft intuitive an
 ## Back-End Expertise 💻⚙️
 On the back-end, I wield the power of **Node.js, Express,** and **MongoDB** to build robust, scalable, and efficient server-side solutions. From designing APIs to handling database management, I enjoy the logical challenges of creating a solid foundation for web applications.
 
-## Skills 💨💨💨💨💨
+## Acquired Skills 💨💨💨💨💨
 
 ### Front-End ✅
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
