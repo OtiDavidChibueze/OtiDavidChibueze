@@ -1,5 +1,5 @@
 
-# Hiiii 🌹, I'm David Chibueze 🔱
+# HII 🌹, I'M DAVID CHIBUEZE 🔱
 ### Passionate Full-Stack Developer 💻✅
 
 👨‍💻 Hello, I'm a dedicated full-stack developer with a keen eye for front-end design and a strong foundation in back-end development. I thrive on turning creative ideas into functional, user-friendly web applications that leave a lasting impact.
@@ -8,7 +8,7 @@
 With expertise in **React, HTML, CSS,** and **JavaScript**, I craft intuitive and engaging user interfaces. My love for detail and aesthetics extends to the utilization of **TailwindCSS**, ensuring that every pixel is perfectly in place. Creating seamless, responsive, and visually appealing web experiences is my forte.
 
 ## Back-End Expertise 💻⚙️
-On the back-end, I wield the power of **Node.js, Express,** and **MongoDB** to build robust, scalable, and efficient server-side solutions. From designing APIs to handling database management, I enjoy the logical challenges of creating a solid foundation for web applications.
+On the back-end, I wield the power of **Node.js, Express, JavaScript, Python Django** and **MongoDB** to build robust, scalable, and efficient server-side solutions. From designing APIs to handling database management, I enjoy the logical challenges of creating a solid foundation for web applications.
 
 ## Acquired Skills 💨💨💨💨💨
 
@@ -22,6 +22,7 @@ On the back-end, I wield the power of **Node.js, Express,** and **MongoDB** to b
 ### Back-End ✅
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 
@@ -34,6 +35,8 @@ In the ever-evolving world of technology, I'm committed to continuous learning. 
 ## Let's Connect 🌹🌟
 I'm enthusiastic about connecting with like-minded professionals, collaborating on exciting projects, and sharing knowledge. If you're interested in working together, discussing technology trends, or just having a good coding chat, feel free to reach out!
 
-- 📧 **Email:** davidchibueze47@gmail.com
-
+- 📧 **Email:** uyearit23@gmail.com
+-    **Linkedin:** https://www.linkedin.com/in/oti-david-chibueze
+-    **Facebook:** https://www.facebook.com/WebWeaver001?mibextid=LQQJ4d
+  
 Let's build amazing digital experiences together! 💻✨
