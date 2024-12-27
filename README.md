@@ -35,7 +35,7 @@ In the ever-evolving world of technology, I'm committed to continuous learning. 
 ## Let's Connect 🌹🌟
 I'm enthusiastic about connecting with like-minded professionals, collaborating on exciting projects, and sharing knowledge. If you're interested in working together, discussing technology trends, or just having a good coding chat, feel free to reach out!
 
-- 📧 **Email:** uyearit23@gmail.com
+- 📧 **Email:** davidchibueze47@gmail.com
 -    **Linkedin:** https://www.linkedin.com/in/oti-david-chibueze
 -    **Facebook:** https://www.facebook.com/WebWeaver001?mibextid=LQQJ4d
 
