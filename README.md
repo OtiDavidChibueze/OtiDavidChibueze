@@ -1,5 +1,5 @@
 
-# HII 🌹, I'M DAVID CHIBUEZE 🔱
+# HII🌹, I'M DAVID CHIBUEZE
 ### Passionate Full-Stack Developer 💻✅
 
 👨‍💻 Hello, I'm a dedicated full-stack developer with a keen eye for front-end design and a strong foundation in back-end development. I thrive on turning creative ideas into functional, user-friendly web applications that leave a lasting impact.
