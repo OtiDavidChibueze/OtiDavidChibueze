@@ -1,4 +1,4 @@
-#👋 Hi, I'm David Chibueze
+# Hi, I'm David Chibueze
 ### Mobile Developer | Full-Stack Engineer | Flutter & Node.js Specialist
 I’m a passionate and results-driven Flutter Developer with 5+ years of experience creating sleek, high-performance cross-platform mobile applications and building scalable backend systems. I combine beautiful front-end experiences with solid back-end logic to deliver complete, production-ready products.
 
