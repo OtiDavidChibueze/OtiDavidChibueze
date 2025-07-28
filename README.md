@@ -24,7 +24,7 @@ Smooth transitions and animations (using Hero, AnimatedContainer, Lottie, etc.)
 
 Whether it's building dashboards, onboarding flows, or fully interactive components—I pay close attention to every pixel and every user interaction.
 
-🛠️ Backend Engineering
+### 🛠️ Backend Engineering
 I build secure and scalable backend systems using:
 
 Node.js, Express, TypeScript
@@ -39,7 +39,7 @@ REST API design & 3rd-party integrations
 
 My backend work is optimized to support mobile apps with reliable data and fast performance.
 
-💼 Tech Stack & Tools
+### 💼 Tech Stack & Tools
 Mobile (Frontend + Logic)
 
 
