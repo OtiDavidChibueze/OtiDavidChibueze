@@ -66,6 +66,4 @@ Looking for a mobile developer who can own both the frontend UI and the backend 
 
 💼 LinkedIn: linkedin.com/in/oti-david-chibueze
 
-🌍 Facebook: facebook.com/WebWeaver001
-
 Let’s build clean, functional, and beautiful mobile apps—end to end. 📱💻🚀
