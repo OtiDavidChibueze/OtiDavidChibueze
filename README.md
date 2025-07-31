@@ -65,6 +65,6 @@ I build sleek cross-platform mobile apps and full-stack web experiences using Fl
 📧 **Email**: [davidchibueze47@gmail.com](mailto:davidchibueze47@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/oti-david-chibueze](https://linkedin.com/in/oti-david-chibueze)
 
-> "I don’t just write code — I build experiences that scale, delight, and perform."
+> "Great software balances speed, structure, and soul — I build with all three."
 
 ![Profile views](https://komarev.com/ghpvc/?username=davidchibueze&color=blue&style=flat)
