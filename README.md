@@ -1,5 +1,5 @@
 # HI, I'M DAVID CHIBUEZE 
-### Mobile & Web Engineer | Flutter · Dart · Node.js · Javascript
+### Mobile & Backend Engineer | Flutter · Dart · Node.js · Javascript
 
 I build sleek cross-platform mobile apps and full-stack web experiences using Flutter, Dart, Node.js, and MongoDB — delivering reliable, beautiful, and performance-driven software.
 
