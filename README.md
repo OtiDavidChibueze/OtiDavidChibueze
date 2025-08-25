@@ -50,8 +50,12 @@
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" width="65" height="65" alt="MongoDB"/><br><b>MongoDB (Database)</b></td>
    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="65" height="65" alt="MySQL"/><br><b>MySQL (Database)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="65" height="65" alt="Firebase"/><br><b>Firebase (Platform)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/dart.svg" width="65" height="65" alt="Dart"/><br><b>Dart (Language)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/supabase-logo-icon.svg" width="65" height="65" alt="Supabase"/><br><b>Supabase (Platform)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/appwrite.svg" width="65" height="65" alt="Appwrite"/><br><b>Appwrite (Platform)</b></td>
 </tr>
 </table>
+
 <br>
 
 <!--<h2 align="center">📚 Developer Resources & Learning Hub</h2>
