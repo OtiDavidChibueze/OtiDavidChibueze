@@ -5,12 +5,12 @@
 </p>
 
 <h1 align="center">
-  Dhayve Script 🔅
+  Dhayve Script 🔆
 </h1>
 
 <!-- Original Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=800&color=FF8C00&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Dhayve+Script;Mobile+Developer;Backend+Engineer;Website+Developer" width="auto" height="35" alt="Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=800&color=FF8C00&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Dhayve+Script;Mobile+Developer;Backend+Engineer;Website+Developer;Software+Engineer" width="auto" height="35" alt="Typing" />
 </p>
 
 <!-- Professional Status Badges -->
@@ -27,7 +27,7 @@
  I am a software engineer specializing in building sleek, cross-platform mobile apps and robust backend systems. With a strong foundation in Flutter, Dart, Node.js, and MongoDB, I deliver reliable, beautiful, and performance-driven software from concept to production. My interests includes: 
 </p>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%23FF8C00&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Backend+Development;Mobile+Development;Firebase+Pro;Flutter+Developer;Nodejs+Developer;Clean+Architecture" width="auto" height="30" alt="Typing"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%23FF8C00&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Backend+Development;Mobile+Development;Firebase+Pro;Flutter+Developer;Nodejs+Developer;Clean+Architecture(MVVM)" width="auto" height="30" alt="Typing"/>
 </p>
 
 <div align="center">
