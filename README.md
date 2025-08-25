@@ -1,7 +1,7 @@
 
 <!-- Modern Dark Dev Banner -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,5,10,15,20&height=220&section=header&text=OTI%20DAVID%20CHIBUEZE%20&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Backend%20Engineer&descAlignY=55&descAlign=50&descSize=18&fontAlign=50" alt="Header Banner"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,5,10,15,20&height=220&section=header&text=OTI%20DAVID%20CHIBUEZE%20&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Backend%20Engineer&descAlignY=55&descAlign=50&descSize=18&fontAlign=50" alt="Header Banner"/>
 </p>
 
 <h1 align="center">
@@ -10,7 +10,7 @@
 
 <!-- Original Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=800&color=FF8C00&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Dhayve+Script+%F0%9F%92%99;Mobile+Developer;Backend+Engineer;Website+Developer" width="auto" height="35" alt="Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=800&color=FF8C00&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Dhayve+Script+%F0%9F%92%99;Mobile+Developer;Backend+Engineer+🔆;Website+Developer" width="auto" height="35" alt="Typing" />
 </p>
 
 <!-- Professional Status Badges -->
