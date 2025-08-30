@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  🔆DhayveScript🔆
+  DhayveScript🔆
 </h1>
 
 <!-- Original Typing Animation -->
