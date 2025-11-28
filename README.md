@@ -10,7 +10,7 @@
 
 <!-- Original Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=800&color=FF8C00&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Dhayve+Script;Mobile+Developer;Backend+Engineer;Website+Developer;Software+Engineer" width="auto" height="35" alt="Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=800&color=FF8C00&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Dhayve;Mobile+Developer;Backend+Engineer;Website+Developer;Software+Engineer" width="auto" height="35" alt="Typing" />
 </p>
 
 <!-- Professional Status Badges -->
